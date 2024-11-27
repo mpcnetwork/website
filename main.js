@@ -1,0 +1,1 @@
+// Eenvoudig voorbeeld van interactie document.addEventListener('DOMContentLoaded', () => { console.log("Webboek geladen!"); // Voeg hier je interactieve functies toe });
